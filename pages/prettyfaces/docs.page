@@ -11,7 +11,7 @@
 
 <div class="featured">
 
-<center><div class="inside"><h2><font color="green">CELEBRATE!</font> PrettyFaces version 3.3.2 is Released!</h2></div>
+<center><div class="inside"><h2><font color="green">CELEBRATE!</font> PrettyFaces version 3.3.3 is Released!</h2></div>
 
 <h2>Read the reference documentation: <a target="_blank" href="http://ocpsoft.com/docs/prettyfaces/3.3.2/en-US/html/">web view</a>, or <a target="_blank" href="http://ocpsoft.com/docs/prettyfaces/3.3.2/en-US/html_single/">single page</a>.</h2></center>
 
@@ -22,21 +22,21 @@ Maven dependencies:
 <dependency>
 	<groupId>com.ocpsoft</groupId>
 	<artifactId>prettyfaces-jsf11</artifactId>
-	<version>3.3.2</version>
+	<version>3.3.3</version>
 </dependency>
 
 <!-- For Servlet/Java EE and JSF 1.2 -->
 <dependency>
 	<groupId>com.ocpsoft</groupId>
 	<artifactId>prettyfaces-jsf12</artifactId>
-	<version>3.3.2</version>
+	<version>3.3.3</version>
 </dependency>
 
 <!-- For Servlet/Java EE and JSF 2.0 -->
 <dependency>
 	<groupId>com.ocpsoft</groupId>
 	<artifactId>prettyfaces-jsf2</artifactId>
-	<version>3.3.2</version>
+	<version>3.3.3</version>
 </dependency>
 </pre>
 </div>
