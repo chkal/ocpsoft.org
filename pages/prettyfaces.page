@@ -238,7 +238,7 @@ View a slideshare presentation on <a href="http://ocpsoft.org/prettyfaces/jsfsum
 	<li>
 	<h3>Q. Can I configure PrettyFaces via Annotations?</h3>
 	<p>
-	A. Yes! Thanks to Christian Kapolteth, PrettyFaces has Annotations support as of version 3.0.2-SNAPSHOT
+	A. Yes! Thanks to Christian Kaltepoth, PrettyFaces has Annotations support as of version 3.0.2-SNAPSHOT
 	</li>
 	
 	<li>
