@@ -51,7 +51,7 @@ public class ExampleConfigurationProvider extends HttpConfigurationProvider
           .addRule(Join.path("/signup").to("/pages/signup.xhtml").withInboundCorrection())
 
           // Perform additional operations on rule execution
-          .addRule(Join.path("/404").to("/pages/404.xhtml").perform(Response.setCode(404)));
+          .addRule(Join.path("/404").to("/pages/404.xhtml")).perform(Response.setStatus(404));
 
    }
 
